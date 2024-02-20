@@ -1,0 +1,11 @@
+HTTP/1.1 201 CREATED
+Date: Fri, 29 Sep 2023 21:15:40 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Content-Type: application/json
+Content-Length: 312
+X-Subject-Token: gAAAAABlFz58sCmBOGmRRafrvGUtPCTMm0QhTb5nyBSdz8evL7bgVw3Yd5ID8F-AL9O29J3CPJMOKGb2MH_vG1mjCzhun3qilCobPGwMkWUM4mkBujZGi5d_VO3lh_joxhKktjRrnHaeFuS0EqZ2lzwlVl4JBeYG2g
+Vary: X-Auth-Token
+x-openstack-request-id: req-6d2d6828-4b33-4ab6-9dd0-f1dcd20129ed
+Connection: close
+
+{"token": {"methods": ["password"], "user": {"domain": {"id": "default", "name": "Default"}, "id": "8f1612b9f3db4ec39e6164e8cc9798d2", "name": "admin", "password_expires_at": null}, "audit_ids": ["Xo1susc1S-OGB8UZubSxSQ"], "expires_at": "2023-09-29T22:15:40.000000Z", "issued_at": "2023-09-29T21:15:40.000000Z"}}%    
